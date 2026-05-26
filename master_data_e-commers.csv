@@ -1,0 +1,36 @@
+id_detail,id_pesanan,tanggal_transaksi,bulan,status_bayar,nama_pelanggan,kota_pelanggan,nama_produk,kategori_produk,harga_beli,harga_jual,qty,total_pendapatan,total_profit
+1,TRX001,2026-04-01,April,Selesai,"Ahmad Fauzi",Jakarta,"Kemeja Flanel",Pakaian,80000,150000,2,300000,140000
+5,TRX004,2026-04-05,April,Selesai,"Ahmad Fauzi",Jakarta,"Kemeja Flanel",Pakaian,80000,150000,1,150000,70000
+17,TRX014,2026-04-29,April,Selesai,"Naufal Rizqi",Yogyakarta,"Kemeja Flanel",Pakaian,80000,150000,1,150000,70000
+24,TRX018,2026-05-06,May,Selesai,"Rian Hidayat",Surabaya,"Kemeja Flanel",Pakaian,80000,150000,2,300000,140000
+32,TRX023,2026-05-15,May,Selesai,"Joko Widodo",Jakarta,"Kemeja Flanel",Pakaian,80000,150000,1,150000,70000
+3,TRX002,2026-04-02,April,Selesai,"Budi Santoso",Surabaya,"Sepatu Running",Pakaian,200000,350000,1,350000,150000
+14,TRX011,2026-04-22,April,Selesai,"Budi Santoso",Surabaya,"Sepatu Running",Pakaian,200000,350000,1,350000,150000
+27,TRX020,2026-05-10,May,Selesai,"Taufik Hidayat",Semarang,"Sepatu Running",Pakaian,200000,350000,1,350000,150000
+2,TRX001,2026-04-01,April,Selesai,"Ahmad Fauzi",Jakarta,"Mouse Wireless",Elektronik,50000,95000,1,95000,45000
+12,TRX010,2026-04-20,April,Selesai,"Joko Widodo",Jakarta,"Mouse Wireless",Elektronik,50000,95000,2,190000,90000
+22,TRX017,2026-05-04,May,Selesai,"Qori Sandi",Jakarta,"Mouse Wireless",Elektronik,50000,95000,3,285000,135000
+31,TRX023,2026-05-15,May,Selesai,"Joko Widodo",Jakarta,"Mouse Wireless",Elektronik,50000,95000,1,95000,45000
+6,TRX004,2026-04-05,April,Selesai,"Ahmad Fauzi",Jakarta,"TWS Bluetooth",Elektronik,120000,220000,2,440000,200000
+20,TRX016,2026-05-02,May,Selesai,"Citra Lestari",Bandung,"TWS Bluetooth",Elektronik,120000,220000,1,220000,100000
+4,TRX003,2026-04-03,April,Selesai,"Citra Lestari",Bandung,"Kopi Susu 1L",Kuliner,30000,65000,3,195000,105000
+13,TRX010,2026-04-20,April,Selesai,"Joko Widodo",Jakarta,"Kopi Susu 1L",Kuliner,30000,65000,1,65000,35000
+18,TRX014,2026-04-29,April,Selesai,"Naufal Rizqi",Yogyakarta,"Kopi Susu 1L",Kuliner,30000,65000,2,130000,70000
+26,TRX019,2026-05-08,May,Selesai,"Siti Aminah",Bandung,"Kopi Susu 1L",Kuliner,30000,65000,1,65000,35000
+35,TRX025,2026-05-20,May,Selesai,"Farhan Hakim",Yogyakarta,"Kopi Susu 1L",Kuliner,30000,65000,4,260000,140000
+7,TRX006,2026-04-10,April,Selesai,"Farhan Hakim",Yogyakarta,"Celana Chino",Pakaian,90000,175000,1,175000,85000
+15,TRX011,2026-04-22,April,Selesai,"Budi Santoso",Surabaya,"Celana Chino",Pakaian,90000,175000,2,350000,170000
+23,TRX018,2026-05-06,May,Selesai,"Rian Hidayat",Surabaya,"Celana Chino",Pakaian,90000,175000,1,175000,85000
+33,TRX024,2026-05-18,May,Selesai,"Kartika Sari",Palembang,"Celana Chino",Pakaian,90000,175000,1,175000,85000
+9,TRX007,2026-04-12,April,Selesai,"Gita Gutawa",Surabaya,"Keyboard Mechanical",Elektronik,250000,450000,1,450000,200000
+19,TRX015,2026-05-01,May,Selesai,"Olivia Putri",Balikpapan,"Keyboard Mechanical",Elektronik,250000,450000,1,450000,200000
+30,TRX022,2026-05-14,May,Selesai,"Gita Gutawa",Surabaya,"Keyboard Mechanical",Elektronik,250000,450000,1,450000,200000
+10,TRX008,2026-04-15,April,Selesai,"Hendra Wijaya",Bandung,"Jaket Bomber",Pakaian,130000,250000,1,250000,120000
+28,TRX021,2026-05-12,May,Selesai,"Ahmad Fauzi",Jakarta,"Jaket Bomber",Pakaian,130000,250000,1,250000,120000
+8,TRX006,2026-04-10,April,Selesai,"Farhan Hakim",Yogyakarta,"Keripik Singkong Pack",Kuliner,8000,18000,5,90000,50000
+16,TRX013,2026-04-27,April,Selesai,"Mega Utami",Denpasar,"Keripik Singkong Pack",Kuliner,8000,18000,10,180000,100000
+25,TRX019,2026-05-08,May,Selesai,"Siti Aminah",Bandung,"Keripik Singkong Pack",Kuliner,8000,18000,4,72000,40000
+34,TRX024,2026-05-18,May,Selesai,"Kartika Sari",Palembang,"Keripik Singkong Pack",Kuliner,8000,18000,3,54000,30000
+11,TRX009,2026-04-18,April,Selesai,"Indah Permata",Semarang,"Powerbank 10k mAh",Elektronik,75000,140000,2,280000,130000
+21,TRX016,2026-05-02,May,Selesai,"Citra Lestari",Bandung,"Powerbank 10k mAh",Elektronik,75000,140000,1,140000,65000
+29,TRX021,2026-05-12,May,Selesai,"Ahmad Fauzi",Jakarta,"Powerbank 10k mAh",Elektronik,75000,140000,1,140000,65000
